@@ -1,10 +1,4 @@
 # Ursnif / Dridex Infection - PCAP Analysis
-
-**Platform:** Blue Team Labs Online  
-**Category:** Security Operations / Network Forensics  
-**Difficulty:** [Easy / Medium / Hard]  
-**Date Completed:** 2026-07-03
-
 ---
 
 ## Scenario
